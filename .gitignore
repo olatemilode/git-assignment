@@ -1,0 +1,11 @@
+# log files
+*.log
+
+# Environment files
+.Env
+
+# OS files
+.DS_Store
+
+# VS code
+.vscode/
