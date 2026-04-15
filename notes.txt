@@ -1,0 +1,5 @@
+Staging and Commiting Explanation
+Staging (git add) is the process o selecting which chnagd files you want to include in next commit. It places those files into a waiting area called the staging area 
+
+Commiting (git commit) permanently saves everytghing in the staging area as a snapshot in projct history, along with a message describing what chnages.
+Together they give full control to ecide excatly what gets saved and when.
